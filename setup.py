@@ -15,7 +15,7 @@ setup(name='mrcnn',
             'scikit-image==0.16.2',
             'imgaug==0.2.6',
             'keras==2.2.4',
-            'tensorflow-gpu==1.12.0',
+            'tensorflow-gpu==2.7.2',
             'albumentations==0.3.3',
             'IPython[all]'
       ],
