@@ -9,7 +9,7 @@ setup(name='mrcnn',
       license='MIT',
       packages=['mrcnn'],
       install_requires=[
-            'numpy==1.17.3',
+            'numpy==1.22.0',
             'pandas==0.25.3',
             'matplotlib==3.1.1',
             'scikit-image==0.16.2',
